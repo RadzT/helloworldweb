@@ -1,4 +1,4 @@
-FROM radhikatv/tomcat9:latest
+FROM radhikatv/tomcat9
 
 ADD ./Helloworldwebapp-dev.war /opt/tomcat/webapps/
 
